@@ -1,0 +1,2 @@
+The script "RunScript.m" contains the graphs showing optimum threshold and results of the of the lab1 discriminent function against the two features and various x values. 
+Change feature type in RunScript to see results for x1 and x2 where 1 = x1 and 2 = x2. 
